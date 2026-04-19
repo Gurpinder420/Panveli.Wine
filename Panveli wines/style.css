@@ -588,8 +588,7 @@
       font-size: 1.1rem;
     }
     .testi-name { font-weight: 600; font-size: 0.92rem; color: var(--dark); }
-    .testi-role { font-size: 0.78rem; color: var(--gray); }
-    .testi-controls {
+     .testi-controls {
       display: flex;
       align-items: center;
       justify-content: center;
